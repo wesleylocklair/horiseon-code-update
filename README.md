@@ -14,9 +14,7 @@ Here is theseginated link to the webpage!
 
 https://wesleylocklair.github.io/horiseon-code-update/
 
-Here are screenshots of the Webpage
+Here is a screenshot of the Webpage
 ![Screenshot (1)](https://github.com/wesleylocklair/horiseon-code-update/assets/171185367/02ea6fd1-c3cd-4611-9401-5f9230bd04a9)
 
-## License
-MIT License
 
